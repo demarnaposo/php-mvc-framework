@@ -1,0 +1,21 @@
+{
+    "name": "mixano/phpmvc-framework",
+    "autoload": {
+        "psr-4": {
+            "Mixano\\PhpmvcFramework\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Waldemar Naposo",
+            "email": "waldemarnaposo313@gmail.com"
+        }
+    ],
+    "autoload":{
+
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
