@@ -24,7 +24,7 @@ class Application {
         
 
 
-        $this->router->resolve();
+        echo $this->router->resolve();
     }
 
 
